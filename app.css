@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'fzxs12';
+  src: url("st_pixel12-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  overflow: hidden; }
+
+canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 100vw;
+  image-rendering: optimizeSpeed;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: optimize-contrast;
+  image-rendering: pixelated;
+  -ms-interpolation-mode: nearest-neighbor; }
+

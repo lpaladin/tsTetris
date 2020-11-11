@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "FZXS12";
+    src: url("st_pixel12-webfont.eot"); /* IE9 */
+    src: url("st_pixel12-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("st_pixel12-webfont.woff") format("woff"), /* chrome, firefox */
+    url("st_pixel12-webfont.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("st_pixel12-webfont.svg#FZXS12") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
